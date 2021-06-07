@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "крипта1", "крипта1\крипта1.vcxproj", "{70FE8066-6054-454D-AD11-CDCB02237CA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FE8066-6054-454D-AD11-CDCB02237CA5}.Debug|x64.ActiveCfg = Debug|x64
+		{70FE8066-6054-454D-AD11-CDCB02237CA5}.Debug|x64.Build.0 = Debug|x64
+		{70FE8066-6054-454D-AD11-CDCB02237CA5}.Debug|x86.ActiveCfg = Debug|Win32
+		{70FE8066-6054-454D-AD11-CDCB02237CA5}.Debug|x86.Build.0 = Debug|Win32
+		{70FE8066-6054-454D-AD11-CDCB02237CA5}.Release|x64.ActiveCfg = Release|x64
+		{70FE8066-6054-454D-AD11-CDCB02237CA5}.Release|x64.Build.0 = Release|x64
+		{70FE8066-6054-454D-AD11-CDCB02237CA5}.Release|x86.ActiveCfg = Release|Win32
+		{70FE8066-6054-454D-AD11-CDCB02237CA5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D184B8E5-70BD-4888-B957-D725E2DE9FF7}
+	EndGlobalSection
+EndGlobal
