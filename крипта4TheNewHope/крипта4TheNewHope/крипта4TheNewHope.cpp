@@ -60,7 +60,7 @@ int main()
 		z.x[zi] = zz - '0';
 		zi++;
 	}
-	/*ofstream L1;
+	ofstream L1;
 	L1.open("L1.txt");
 	ofstream L2;
 	L2.open("L2.txt");
